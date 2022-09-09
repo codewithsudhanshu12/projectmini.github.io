@@ -1,0 +1,92 @@
+<DOCTYPE html>
+<html>
+      <head>
+	        <title>XYZ Battery House Pvt Ltd.</title>
+			<link rel="stylesheet" href="1.css/style.css">
+	  </head>
+	  <body>
+	  <div>
+	  <ul text align="center">
+	      <li><a href="#About">About</a></li>
+		  <li><a href="#Product">Product</a></li>
+		  <li><a href="#Secvices">Secvices</a></li>
+		  <li><a href="#Contact">Contact</a></li>
+      </ul>
+	  </div>
+	  <section id="About">
+	  <h1>About</h1>
+	  <P>Hello, I am sudhanshu kumar jha I am basically from Bihar.I was complected my 10th Hira kamla 
+	  High school Gopalpur And I was complected myt 12th L N T College Muzaffarpur and I still prusing BCA
+	  (bachelor of computer application) in L N Mishra College Muzaffarpur.coming to family my father name
+	  is Vishwambhar Jha he is farmer my mother name is Kavita Jha she is housewife and I have two brothers
+      ans one sister.My hobbies playing and watching Cricket.sir I am good lerner and alawys improve my
+	  knowledege. I have HTML and CSS basic knowledege my goal are. I believe in hardworking.I can my all
+	  knowledege and experience how to improve the company.</p>
+	  </section>
+	  
+	  <section id="product">
+	  <h1>product</h1>
+	  <img src="img/blue.jpg" alt="this picture are so cute">
+	  <img src="img/green.jpg" alt="this is very green picture">
+	  <img src="img/showcase.jpg" alt="this is showcase picture">
+	  <a href class="hello"="https://www.youtube.com" alt="go to youtube">youtube</a>
+	  <a href class="hy"="https://www.youtube.com/sportstak" alt="click and going to sport tak">go to sportsak</a>
+	  <a href="https://www.youtube.com/channel/UCQK" alt="go to cinmea beast">go to cinmea beast</a>
+	  </section>
+	  
+	  <section>
+	  <div class="computerdiv">
+      <div class="computer1">
+	  <div class="computer2">
+	  </section>
+	  
+	  <section>
+	  <div class="laptopdiv">
+	  <div class="laptop1">
+	  <div class="laptop2">
+	  </section>
+	  
+	  <section>
+	  <div class="address">
+	  <p align="center">ADDRESS<br><br> Sector 9/11,  Dabra chowk<br><br> Hisar, Delhi 125005</p>	  
+	  </section>
+	  
+	  <section>
+	  <div class="aa"
+	  <ul>
+	     <li>Mobile No - 7654321876 </li><br>
+		 <li>Email Id - <a href="https://mail.google.com"> sudhashukrjha@gmail.com</a></li><br>
+		 <li>whatsaap No - 54654889954</li>
+	  </ul>
+	  </section>
+	  
+	  
+	  
+	
+	  
+
+
+
+		
+	  </body>
+</html>	  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		  
+		
